@@ -1,0 +1,3 @@
+/Users/victorgarrido/OneDrive - La Salle/2019-2020/2n Semestre/SOA/Pràctica/shooter_victor.garrido/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/victorgarrido/OneDrive - La Salle/2019-2020/2n Semestre/SOA/Pràctica/shooter_victor.garrido/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/victorgarrido/OneDrive - La Salle/2019-2020/2n Semestre/SOA/Pràctica/shooter_victor.garrido/cmake-build-debug/CMakeFiles/shooter_victor_garrido.dir
